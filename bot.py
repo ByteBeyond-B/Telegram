@@ -4,7 +4,7 @@ import feedparser
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # === CONFIGURATION ===
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # 🔹 Replace with your Telegram bot token
+BOT_TOKEN = "7253081903:AAGhTu6nCRJLRw0B6V02Qxhn0ZU_Hv2BGhE"  # 🔹 Replace with your Telegram bot token
 CHANNEL_ID = "@YOUR_CHANNEL_USERNAME"  # 🔹 Replace with your Telegram channel username
 DISCUSSION_CHANNEL_ID = "-100XXXXXXXXXX"  # 🔹 Replace with your Discussion Channel ID (optional)
 BLOG_FEED_URL = "https://YOURBLOGNAME.blogspot.com/feeds/posts/default"  # 🔹 Replace with your Blogger feed URL
